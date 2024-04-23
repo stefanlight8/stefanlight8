@@ -1,7 +1,3 @@
-<a href="https://github.com/ShinshiDevs/Shinshi">
-    <img src="./Frame 222222222.png" alt="Banner">
-</a>
-
 # Stefan Mukhin
 #### also known as stefanlight
 Ordinary Junior developer. I've been familiar with computers since 2017, and with development and design since 2020. I engage in graphic/web design, photography, and sometimes work with sound, video. All of this can be summed up as creativity.
