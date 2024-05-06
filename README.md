@@ -7,6 +7,11 @@ locality: ["Moscow", "Russia"]
 contacts:
   discord: "stefanlight"
   telegram: "stefanlight"
+languages:
+  - name: "English"
+    level: "Beginner"
+  - name: "Russian"
+    level: "Native"
 history:
   2015: "Began using a computer."
   2017: "Tried out Linux Mint for the first time."
