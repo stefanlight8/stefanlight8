@@ -3,7 +3,9 @@
 id: "95009329f9f518c5426f136957d93bfd"
 name: "Stefan Mukhin"
 birthday: 2008-04-17
-locality: ["Moscow", "Russia"]
+locality: 
+  country: "Russia"
+  city: "Moscow"
 contacts:
   discord: "stefanlight"
   telegram: "stefanlight"
