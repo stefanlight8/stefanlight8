@@ -1,11 +1,51 @@
-# Stefan Mukhin
-#### also known as stefanlight
-Ordinary Junior developer. I've been familiar with computers since 2017, and with development and design since 2020. I engage in graphic/web design, photography, and sometimes work with sound, video. All of this can be summed up as creativity.
-Over all the time I've spent on the computer, I created more than 30 full-fledged projects that have garnered their own community and had pluses.
-I have my own approach to development and I love it when everything is by the rules, everything works like clockwork, and even the code itself looks good.
-
-- Currently working on [Shinshi](https://github.com/ShinshiDevs/Shinshi).
-- My main language is Python already 4 years.
-- In my plans to try Rust, Golang, learn more in Linux, Docker.
-
-Contact me in [Telegram](https://t.me/stefanlight) or in [Discord](https://discord.com/users/890784413242241084).
+```yaml
+# --- Current file filtered and some information may be hidden. Contact administrator for full access. ---
+id: "95009329f9f518c5426f136957d93bfd"
+name: "Stefan Mukhin"
+birthday: 2008-04-17
+locality: ["Moscow", "Russia"]
+contacts:
+  discord: "stefanlight"
+  telegram: "stefanlight"
+history:
+  2015: "Began using a computer."
+  2017: "Tried out Linux Mint for the first time."
+  2019: "Started getting to know JavaScript, but gave it up later."
+  2020: "Entered the world of programming and design, choosing the username 'stefanlight'."
+  2021: "Started playing with different Linux systems."
+  2023: "Switched to a new computer and began exploring Docker along with other DevOps tools."
+interests:
+  - name: "computer science"
+    experience:
+      years: 9
+    scope: ["Linux", "macOS", "Windows"]
+  - name: "design"
+    experience:
+      years: 4
+    scope: ["graphic", "web"]
+  - name: "development"
+    experience:
+      years: 4
+    stack: 
+      - "python"
+    interested: ["Frontend", "Golang", "Nim", "OOP", "Rust", "SQL"]
+  - name: "devops"
+    experience:
+      years: 1
+    stack: 
+      - "docker"
+    interested: ["CI/CD", "Kubernetes"]
+organizations:
+  - link: https://github.com/ShinshiDevs
+    name: "Shinshi Developers Team"
+projects:
+  - description: "Modern and user-friendly Discord bot designed to provide you and your servers with great features and stable performance."
+    links: 
+      main: https://github.com/ShinshiDevs/Shinshi
+    name: "Shinshi"
+  - description: "A flexible command-component handler framework."
+    links: 
+      hikari: https://github.com/ShinshiDevs/aurum-hikari
+      quant: https://github.com/ShinshiDevs/aurum-quant
+    name: "Aurum"
+```
