@@ -26,8 +26,7 @@ interests:
   - name: "development"
     experience:
       years: 4
-    stack: 
-      - "python"
+    scope: ["python"]
     interested: ["Frontend", "Golang", "Nim", "OOP", "Rust", "SQL"]
   - name: "devops"
     experience:
