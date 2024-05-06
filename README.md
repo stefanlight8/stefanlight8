@@ -31,8 +31,7 @@ interests:
   - name: "devops"
     experience:
       years: 1
-    stack: 
-      - "docker"
+    scope: ["docker"]
     interested: ["CI/CD", "Kubernetes"]
 organizations:
   - link: "https://github.com/ShinshiDevs"
