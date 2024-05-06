@@ -36,7 +36,7 @@ interests:
       - "docker"
     interested: ["CI/CD", "Kubernetes"]
 organizations:
-  - link: https://github.com/ShinshiDevs
+  - link: "https://github.com/ShinshiDevs"
     name: "Shinshi Developers Team"
 projects:
   - description: "Modern and user-friendly Discord bot designed to provide you and your servers with great features and stable performance."
