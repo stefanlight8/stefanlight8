@@ -41,11 +41,11 @@ organizations:
 projects:
   - description: "Modern and user-friendly Discord bot designed to provide you and your servers with great features and stable performance."
     links: 
-      main: https://github.com/ShinshiDevs/Shinshi
+      main: "https://github.com/ShinshiDevs/Shinshi"
     name: "Shinshi"
   - description: "A flexible command-component handler framework."
     links: 
-      hikari: https://github.com/ShinshiDevs/aurum-hikari
-      quant: https://github.com/ShinshiDevs/aurum-quant
+      hikari: "https://github.com/ShinshiDevs/aurum-hikari"
+      quant: "https://github.com/ShinshiDevs/aurum-quant"
     name: "Aurum"
 ```
