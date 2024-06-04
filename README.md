@@ -1,56 +1,13 @@
-```yaml
-# --- Current file filtered and some information may be hidden. Contact administrator for full access. ---
-id: "95009329f9f518c5426f136957d93bfd"
-name: "Stefan Mukhin"
-birthday: 2008-04-17
-locality: 
-  country: "Russia"
-  city: "Moscow"
-contacts:
-  discord: "stefanlight"
-  telegram: "stefanlight"
-languages:
-  - name: "English"
-    level: "Beginner"
-  - name: "Russian"
-    level: "Native"
-history:
-  2015: "Began using a computer."
-  2017: "Tried out Linux Mint for the first time."
-  2019: "Started getting to know JavaScript, but gave it up later."
-  2020: "Entered the world of programming and design, choosing the username 'stefanlight'."
-  2021: "Started playing with different Linux systems."
-  2023: "Switched to a new computer and began exploring Docker along with other DevOps tools."
-interests:
-  - name: "computer science"
-    experience:
-      years: 9
-    scope: ["Linux", "macOS", "Windows"]
-  - name: "design"
-    experience:
-      years: 4
-    scope: ["graphic", "web"]
-  - name: "development"
-    experience:
-      years: 4
-    scope: ["python"]
-    interested: ["Frontend", "Golang", "Nim", "OOP", "Rust", "SQL"]
-  - name: "devops"
-    experience:
-      years: 1
-    scope: ["docker"]
-    interested: ["CI/CD", "Kubernetes"]
-organizations:
-  - link: "https://github.com/ShinshiDevs"
-    name: "Shinshi Developers Team"
-projects:
-  - description: "Modern and user-friendly Discord bot designed to provide you and your servers with great features and stable performance."
-    links: 
-      main: "https://github.com/ShinshiDevs/Shinshi"
-    name: "Shinshi"
-  - description: "A flexible command-component handler framework."
-    links: 
-      hikari: "https://github.com/ShinshiDevs/aurum-hikari"
-      quant: "https://github.com/ShinshiDevs/aurum-quant"
-    name: "Aurum"
-```
+**Hi, I'm Stefan**, also known as **stefanlight**. I'm a 16-year-old junior developer and graphic designer. Since 2017, I've been using the internet to communicate and create various types of media. 
+
+Currently, I'm interested in building scalable infrastructures, performing system administration, and learning about Linux, SQL.
+
+#### About me
+I enjoy listening to music, and I'm passionate about computers and various electronic devices.
+
+#### Stack
+- Python (4+ years)
+    - Experience with asyncio and bot development
+
+#### Projects
+- **Founder** of [Shinshi](https://github.com/ShinshiDevs/Shinshi), lead developer on the Shinshi Developers Team.
