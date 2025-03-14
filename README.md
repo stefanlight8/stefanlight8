@@ -23,7 +23,7 @@ My name is Stefan and I'm a software engineer, primarily as open-source enthusia
       Async and static-typed library for working with Gemini.
     </td>
     <td width="50%">
-      <a href="https://github.com/stefanlight8/dotenv"><strong>dotenv</strong></a><br>
+      <a href="https://github.com/stefanlight8/minenv"><strong>minenv</strong></a><br>
       A minimal module for working with dotenv files.
     </td>
   </tr>
