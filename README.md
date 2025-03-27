@@ -45,3 +45,7 @@ My name is Stefan and I'm a software engineer, primarily as open-source enthusia
   </tr>
 </table>
 
+* * *
+
+### Some widgets for fun
+<img src="https://github-profile-trophy.vercel.app/?username=stefanlight8" alt="Trophies">
