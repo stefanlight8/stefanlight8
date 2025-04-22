@@ -48,6 +48,6 @@ My name is Stefan and I'm a software engineer, primarily as open-source enthusia
 </table>
 
 ### My lovely desktop
-<a href="assets/IMG_6376.jpg" target="_blank">
+<a href="assets/IMG_6376.JPG" target="_blank">
   <img src="assets/IMG_6376_optimized.webp" alt="Preview" style="max-width: 100%; height: auto;">
 </a>
