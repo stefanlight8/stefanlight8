@@ -1,3 +1,7 @@
+<!--
+Thanks for your interest or desire to copy my README. ₍^. .^₎⟆
+-->
+
 ## Hi, I'm stefanlight.
 My name is Stefan and I'm a software engineer, primarily as open-source enthusiast, projects maintainer, and graphic designer.
 
@@ -42,3 +46,8 @@ My name is Stefan and I'm a software engineer, primarily as open-source enthusia
     </td>
   </tr>
 </table>
+
+### My lovely desktop
+<a href="assets/IMG_6376.jpg" target="_blank">
+  <img src="assets/IMG_6376_optimized.webp" alt="Preview" style="max-width: 100%; height: auto;">
+</a>
