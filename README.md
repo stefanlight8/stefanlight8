@@ -1,11 +1,10 @@
 <!--
 Thanks for your interest or desire to copy my README. ₍^. .^₎⟆
 -->
+Hello I'm Stefan (mostly known as stefanlight) – a developer and graphic designer. 
+I make things that work well and look right.
 
-## Hi, I'm stefanlight.
-My name is Stefan and I'm a software engineer, primarily as open-source enthusiast, projects maintainer, and graphic designer.
-
-### Projects
+###### Projects
 <table>
   <tr>
     <td width="50%">
@@ -46,8 +45,3 @@ My name is Stefan and I'm a software engineer, primarily as open-source enthusia
     </td>
   </tr>
 </table>
-
-### My lovely desktop
-<a href="assets/IMG_6376.JPG" target="_blank">
-  <img src="assets/IMG_6376_optimized.webp" alt="Preview" style="max-width: 100%; height: auto;">
-</a>
