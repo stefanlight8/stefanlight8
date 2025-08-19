@@ -46,7 +46,7 @@ jobs:
           plugin_languages_threshold: 0%
           # Repositories
           plugin_repositories: yes
-          plugin_repositories_featured: discord-ram/discord-ram, gemini-async, minenv, filan
+          plugin_repositories_featured: discord-ram/discord-ram, Ravaudio/Ravaudio, gemini-async, minenv, filan
           plugin_repositories_order: featured, pinned, starred, random
           # Wakatime
           plugin_wakatime: yes
